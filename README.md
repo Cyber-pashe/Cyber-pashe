@@ -1,7 +1,7 @@
 # 🛡️ Hi, I'm Adepashe Abdulwahab! 👋
 ### Aspiring Junior Cybersecurity Analyst (SOC L1 Focus)
 
-I am a dedicated, entry-level professional transitioning into the Blue Team space, specializing in threat detection and incident handling. I am focused on mastering the practical skills needed to secure organizational assets.
+Entry-level Red Team enthusiast specializing in penetration testing and offensive security. Focused on finding vulnerabilities and strengthening organizational defenses.
 
 - 🎓 **Currently Studying:** Cisco Networking Academy (Junior Cyber Security Analyst Career Path)
 - 🎯 **Current Career Goal:** To secure a role as a Security Operations Center (SOC) Analyst L1 and contribute to real-time defense.
